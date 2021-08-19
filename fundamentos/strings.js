@@ -2,9 +2,11 @@ const escola = "Marc3lino"
 //Retornar um caractere
 console.log(escola.charAt(0))
 console.log(escola.charAt(10))
-//Retornar um código de um caractere
+
+//Retornar um código ASCII de um caractere
 console.log(escola.charCodeAt(4))
-// Retorna o indice de um caractere
+
+// Retorna o indice de um caractere da palavra escola
 console.log(escola.indexOf('3'))
 
 //Retorna uma substring de um texto
